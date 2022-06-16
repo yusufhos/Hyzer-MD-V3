@@ -10,7 +10,7 @@ global.instagram = 'https://instagram.com/muhyusuff19'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '089508505352'
 global.pulsa = '089629015724'
-global.ovo = '089629015724'
+global.Gopay = '081212341546'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'BOT HAN'

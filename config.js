@@ -1,5 +1,5 @@
 //=============『 Utama 』================== //
-global.owner = ['6285774448074'] 
+global.owner = [] 
 global.mods = [] 
 global.prems = [] 
 

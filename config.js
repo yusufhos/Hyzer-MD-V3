@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6289629015724'] 
+global.owner = ['62881025530747'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'YusufXHost'
-global.numberowner = '6289629015724'
+global.nameowner = 'Rapzzstore'
+global.numberowner = '62881025530747'
 global.instagram = 'https://instagram.com/muhyusuff19'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '089508505352'
@@ -13,7 +13,7 @@ global.pulsa = '089629015724'
 global.ovo = '089629015724'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'YUSUF BOTZ'
+global.namebot = 'RAPZZ BOT'
 global.gc = 'https://chat.whatsapp.com/H3It9sjmObG6xp5nUZeSE4'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen = 20.000\n2 Minggu 15.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Yusuf Botz'
+global.wm = 'Rapzz Botz'
 global.watermark = wm
-global.wm2 = '                     「 Yusuf Botz あ⁩ 」'
-global.wm3 = '⫹⫺ Yusuf Botz'
+global.wm2 = '                     「 Rapzz Botz あ⁩ 」'
+global.wm3 = '⫹⫺ Rapzz Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
